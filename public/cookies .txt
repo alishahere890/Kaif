@@ -1,1 +1,1 @@
-cookies.txt
+datr=QO-HaSKovovCiELGbc7pkEkc; sb=QO-HaUV6rbN25o_QxXfVnDDI; ps_l=1; ps_n=1; m_pixel_ratio=2.75; wd=393x873; c_user=61575634016193; xs=35%3AGEYo8Nf2NmhGmg%3A2%3A1770516359%3A-1%3A-1; fr=0T2GFhpbNF8A5fTtc.AWc2wbCbkMypMZ1yOwqEGlZD8djmXfUza9pRK9Z2v5dMa1opbzI.Bph-9A..AAA.0.0.Bph--N.AWdoVm7EHm8l0wDrI0GNxu__MhY; locale=en_GB; pas=61575634016193%3AZK3Ts2Qizx; wl_cbv=v2%3Bclient_version%3A3070%3Btimestamp%3A1770516365; fbl_st=101018357%3BT%3A29508606; vpd=v1%3B696x392x2.75
