@@ -27,7 +27,7 @@ process.stdout.write = function(chunk, encoding, callback) {
 };
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 4000;
 const START_TIME = Date.now();
 
 const COOKIES_FILE = path.join(__dirname, 'public', 'cookies.txt');
